@@ -5,7 +5,7 @@ For any questions - Please email me at DevOps@RajeshKumar.xyz
 <distributionManagement>
 	<repository>
 		<id>tata</id>
-		<name>Internal Releases</name>
+		<name>Internal Releases for Test</name>
 		<url>http://13.127.163.182:8081/repository/scmgalaxy/</url>
 	</repository>
  
